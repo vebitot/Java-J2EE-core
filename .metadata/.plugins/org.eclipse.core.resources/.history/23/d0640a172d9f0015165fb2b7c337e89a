@@ -1,0 +1,5 @@
+package com.learn.vebitot.dataServices;
+
+public interface DataServices {
+
+}

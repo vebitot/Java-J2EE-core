@@ -1,0 +1,8 @@
+package com.learn.vebitot.dataServices;
+
+import javax.ws.rs.Path;
+
+@Path("/DataServices")
+public interface DataServices {
+	
+}

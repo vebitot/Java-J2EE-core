@@ -1,0 +1,15 @@
+package com.learn.vebitot;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class MainController {
+	String message = "Ola!";
+	
+	public ModelAndView showMessage(
+			@RequestParam(value = "name", required=false, default value="John") String name){
+		
+	}
+}

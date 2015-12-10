@@ -1,0 +1,6 @@
+<html>
+<body>
+<h2>Ola Senor!</h2>
+<a href="sayHello?name='Maaanj'">Click here!</a>
+</body>
+</html>

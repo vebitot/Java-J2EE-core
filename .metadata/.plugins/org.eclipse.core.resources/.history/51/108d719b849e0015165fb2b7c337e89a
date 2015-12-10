@@ -1,0 +1,11 @@
+<html>
+<body>
+<h2>Ola Senor!</h2>
+<a href="sayHello?name=Maaanj">Click here!</a>
+<form action="authorize" method="post" modelAttribute ="credential">
+<input type="text" id="id"/>
+<input type="text" id="fingerPrint"/>
+<input type="submit" value="Submit"/>
+</form>
+</body>
+</html>

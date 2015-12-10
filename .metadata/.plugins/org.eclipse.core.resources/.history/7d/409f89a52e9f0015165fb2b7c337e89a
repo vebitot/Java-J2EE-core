@@ -1,0 +1,12 @@
+package com.learn.vebitot.dataServices;
+
+import javax.ws.rs.core.Response;
+
+public class DataServiceImpl implements DataServices {
+
+	public Response getData(String token) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

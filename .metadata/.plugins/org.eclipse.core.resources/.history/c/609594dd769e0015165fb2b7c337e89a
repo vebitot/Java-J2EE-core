@@ -1,0 +1,10 @@
+<html>
+<body>
+<h2>Ola Senor!</h2>
+<a href="sayHello?name=Maaanj">Click here!</a>
+<form action="authorize" method="post">
+<input type="text" id="fingerprint" size="50"/>
+<button type="submit">Login</button>
+</form>
+</body>
+</html>

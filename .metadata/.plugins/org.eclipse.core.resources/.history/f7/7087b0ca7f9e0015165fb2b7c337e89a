@@ -1,0 +1,6 @@
+package com.learn.vebitot.model;
+
+public class AccessCredential {
+	private String id;
+	private String fingerprint;
+}
